@@ -1,6 +1,8 @@
 
 # Modern React Dashboard Application
 
+Deployed on Vercel: **(https://your-project-name.vercel.app)**  
+
 A sophisticated React dashboard application built with modern technologies and best practices.
 
 ## 🚀 Technologies
