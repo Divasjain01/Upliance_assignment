@@ -1,7 +1,7 @@
 
 # Modern React Dashboard Application
 
-Deployed on Vercel: **(https://vercel.com/divasjains-projects/upliance-assignment/6HvkerpULErXnU8oU3n4eTuftnw8)**  
+Deployed on Vercel: **(https://upliance-assignment-1x3i0to82-divasjains-projects.vercel.app/)**  
 
 A sophisticated React dashboard application built with modern technologies and best practices.
 
